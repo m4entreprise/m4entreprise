@@ -11,4 +11,3 @@
 <a href="https://www.linkedin.com/company/m4-entreprise" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61555838617465" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=m4entreprise&theme=apprentice&date_format=j%20M%5B%20Y%5D" alt="m4entreprise" /></p>
